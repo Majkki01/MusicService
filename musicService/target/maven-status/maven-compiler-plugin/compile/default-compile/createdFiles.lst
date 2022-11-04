@@ -1,0 +1,14 @@
+pl\edu\pg\eti\kask\musicService\element\entity\Song$SongBuilder.class
+pl\edu\pg\eti\kask\musicService\configuration\InitializedData.class
+pl\edu\pg\eti\kask\musicService\CommandLine.class
+pl\edu\pg\eti\kask\musicService\element\service\VocalistService.class
+pl\edu\pg\eti\kask\musicService\datastore\DataStore.class
+pl\edu\pg\eti\kask\musicService\element\entity\Vocalist.class
+pl\edu\pg\eti\kask\musicService\repository\Repository.class
+pl\edu\pg\eti\kask\musicService\element\service\SongService.class
+pl\edu\pg\eti\kask\musicService\serialization\ClonningUtility.class
+pl\edu\pg\eti\kask\musicService\element\entity\Vocalist$VocalistBuilder.class
+pl\edu\pg\eti\kask\musicService\element\entity\Song.class
+pl\edu\pg\eti\kask\musicService\element\repository\SongRepository.class
+pl\edu\pg\eti\kask\musicService\element\repository\VocalistRepository.class
+pl\edu\pg\eti\kask\musicService\MusicServiceApplication.class
